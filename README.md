@@ -77,6 +77,7 @@ Mettre en place Hyperledger Fabric nécessite plusieurs étapes, allant de l'ins
 Télécharger les fichiers binaires et les images Docker :
 - Clonez le dépôt GitHub d’Hyperledger Fabric :
     git clone https://github.com/hyperledger/fabric-samples.git
+   ou git clone --depth 1 https://github.com/hyperledger/fabric-samples.git
 cd fabric-samples
 
 - Exécutez le script pour télécharger les binaires et les images Docker :
